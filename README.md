@@ -1,3 +1,3 @@
 # QuarkusNewsBackup
 
-Repository for backups of [@QuarkusNews](https://t.me/quarkusnews) telegram channel.
+Backups of posts in [@QuarkusNews](https://t.me/quarkusnews) telegram channel.
